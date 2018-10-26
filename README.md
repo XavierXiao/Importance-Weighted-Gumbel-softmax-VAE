@@ -9,6 +9,7 @@ The model is trained 50 epoches, and being tested on MNIST test set. The NLL is 
 | 92.88  | 92.31  |
 
 The IWAE code is partly based on implementation of Xinqiang Ding: https://github.com/xqding/Importance_Weighted_Autoencoders
+
 Reference:
 
 [1]Burda, Yuri, Roger Grosse, and Ruslan Salakhutdinov. "Importance weighted autoencoders." arXiv preprint arXiv:1509.00519 (2015).
